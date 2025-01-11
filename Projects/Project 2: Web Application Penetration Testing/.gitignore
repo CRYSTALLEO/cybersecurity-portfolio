@@ -1,0 +1,31 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# NVD and Shodan data (you probably don't want to track large files)
+*.gz
+*.json
+nvdcve-1.1-*.json.gz
+nvdcve-1.1-*.json
+
+# History file (stores monitoring results)
+vulnerability_history.json
+
+# Streamlit generated files
+.streamlit/
+
+# IDE and editor configuration files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store
+Thumbs.db
