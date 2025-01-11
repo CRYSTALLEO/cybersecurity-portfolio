@@ -3,6 +3,8 @@
 ## About Me
 Hello, I'm **ymq**, a passionate cybersecurity enthusiast and a master's student at the **University of Malaya**. I have a deep interest in **digital forensics**.
 
+---
+
 ## Technical Skills
 - **Penetration Testing Tools**:  
   - Proficient in using **Nmap** for network scanning and vulnerability assessment.  
@@ -28,11 +30,15 @@ Hello, I'm **ymq**, a passionate cybersecurity enthusiast and a master's student
   - Knowledge of **cyber threats** such as APTs (Advanced Persistent Threats), social engineering, and network-based attacks.  
   - Proficient in using **Snort** for intrusion detection and SIEM platforms for log management. 
 
+---
+
 ## Certifications and Training
 - **Certifications**:  
   - Cisco Certified CyberOps Associate (In Progress)    
 - **Courses/Workshops**:  
   - Cisco Networking Academy: Learn how to monitor, detect and respond to cyber threats and prepare for the Cisco Certified CyberOps Associate certification  
+
+---
 
 ## Project Experience
 
