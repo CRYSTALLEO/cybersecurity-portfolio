@@ -129,21 +129,24 @@ I am particularly interested in **Digital Forensics**, aiming to delve deeper in
 ## 📘 Learning Journey  
 
 ### **What I've Learned**  
-- Gained a solid foundation in cybersecurity principles, including the CIA triad, risk management, and threat analysis.  
-- Developed skills in TCP/IP, OSI model, and traffic analysis with Wireshark.  
-- Acquired practical experience in SOC operations, incident response, and forensics.  
-- Familiarized with key tools like Nmap, OpenVAS, and Snort for vulnerability management.  
-
-### **Challenges**  
-- Difficulty mastering technical topics like advanced packet analysis and encryption algorithms.  
-- Struggled to apply theoretical knowledge in time-sensitive incident response scenarios.  
-- Limited access to real-world SOC environments for practical experience.  
-
-### **Plans for Improvement**  
-- Create structured learning plans with weekly goals.  
-- Simulate real-world scenarios to improve incident response skills.  
-- Enhance communication skills for technical and non-technical audiences.  
-- Regularly assess strengths and weaknesses through mock tests and feedback.  
+- **Cybersecurity Principles**:  
+  Gained a strong foundation in the CIA triad (Confidentiality, Integrity, Availability) and risk management.  
+  Learned about the various types of threats, vulnerabilities, and attack vectors.  
+- **Network Fundamentals**:  
+  Developed a deeper understanding of TCP/IP, network protocols, and the OSI model.  
+  Learned to analyze network traffic using tools like Wireshark.  
+- **Security Operations**:  
+  Understood the role of a SOC in monitoring and responding to security incidents.  
+  Learned incident response processes, threat intelligence, and log analysis.  
+- **Cyber Threats and Tools**:  
+  Familiarized with malware analysis, phishing attacks, and social engineering techniques.  
+  Learned to use tools like Snort for intrusion detection and various SIEM platforms.  
+- **Forensics and Endpoint Security**:  
+  Acquired skills in basic digital forensics, including identifying and preserving evidence.  
+  Learned about endpoint protection solutions and patch management.  
+- **Legal and Ethical Responsibilities**:  
+  Gained knowledge about compliance requirements, such as GDPR, HIPAA, and ISO standards.  
+  Understood the ethical responsibilities of cybersecurity professionals.  
 
 ---
 
